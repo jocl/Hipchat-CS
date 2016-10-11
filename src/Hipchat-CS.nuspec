@@ -12,7 +12,7 @@
     <language>en-US</language>
     <projectUrl>https://github.com/KyleGobel/Hipchat-CS/</projectUrl>
     <dependencies>
-      <dependency id="ServiceStack.Text" version="4.0.18"/>
+      <dependency id="ServiceStack.Text"/>
     </dependencies>
   </metadata>
   <files>
