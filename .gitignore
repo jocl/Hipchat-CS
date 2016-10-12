@@ -162,3 +162,4 @@ $RECYCLE.BIN/
 .DS_Store
 style.css
 ie-override.css
+src/*.nupkg
